@@ -10,7 +10,7 @@ Docker 中文指南
 
 >Docker 已经出到1.8了，很多文章翻译的不对或者是已经过时，需要重新翻译和核对。从现在开始每天抽一点额外的时间来翻译文章。
 
-演示站点:[http://docker.widuu.com](http://docker.widuu.com)
+演示站点:[https://www.widuu.com/chinese_docker/index.html](https://www.widuu.com/chinese_docker/index.html)
 
 ##进度
 
